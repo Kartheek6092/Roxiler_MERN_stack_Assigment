@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Roxiler_MERN_stack_Assignment/static/css/main.aa3c7939.css",
+    "main.js": "/Roxiler_MERN_stack_Assignment/static/js/main.ceed0709.js",
+    "static/js/787.f539c494.chunk.js": "/Roxiler_MERN_stack_Assignment/static/js/787.f539c494.chunk.js",
+    "index.html": "/Roxiler_MERN_stack_Assignment/index.html",
+    "main.aa3c7939.css.map": "/Roxiler_MERN_stack_Assignment/static/css/main.aa3c7939.css.map",
+    "main.ceed0709.js.map": "/Roxiler_MERN_stack_Assignment/static/js/main.ceed0709.js.map",
+    "787.f539c494.chunk.js.map": "/Roxiler_MERN_stack_Assignment/static/js/787.f539c494.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa3c7939.css",
+    "static/js/main.ceed0709.js"
+  ]
+}
